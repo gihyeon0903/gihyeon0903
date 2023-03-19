@@ -4,8 +4,7 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-239DFF?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Cpp-239DFF?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-239DFF?style=flat&logo=Cpp&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
 	
