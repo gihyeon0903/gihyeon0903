@@ -9,7 +9,7 @@
 > - <a href="https://github.com/gihyeon0903/morai-autonomous-car-competition">2022 국민대 가상환경 자율주행 경진대회 수상</a>
 > - <a href="https://github.com/gihyeon0903/Space-Weather-prediction-competition">2022 우주전파환경 AI 경진대회 수상</a>
 > - <a href="https://github.com/gihyeon0903/ACK-conference-paper">2022 ACK 추계 학술 대회 수상</a>
-> - <a href="">2023 경기대 AI/SW 창업 아이디어 캠프 수상</a>
+> - <a href="https://github.com/gihyeon0903/AI-SW-Foundation-idea-camp">2023 경기대 AI/SW 창업 아이디어 캠프 수상</a>
 > - <a href="https://github.com/gihyeon0903/dacon-compeition-2023-1">2023 dacon 실시간 TV 손동작 제어 인식 AI 경진대회 수상</a>
 
 > 진행중
