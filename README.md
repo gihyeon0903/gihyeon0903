@@ -1,8 +1,8 @@
 ## Hello, I'm GiHyeon Nam! 👋
 
 ### 🧑‍ About me
-> name : Nam GiHyeon
-> mail : ygw0903@gmail.com
+> Name : Nam GiHyeon<br>
+> Mail : ygw0903@gmail.com
 
 ### 💻 Project
 > 종료
