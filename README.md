@@ -4,7 +4,8 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-239DFF?style=flat&logo=C'/'C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/Cpp-239DFF?style=flat&logo=C Cpp&logoColor=white" />
+	
 </div>
 
 <!--
