@@ -2,15 +2,15 @@
 
 ### 👨‍🎓 Project
 > 종료
-> - <a href="http://www.naver.com">2018 하계 라인트레이서</a>
-> - 2021 ICT 융합 프로젝트 경진대회
-> - 2021 아주대 융합캡스톤 디자인 경진대회 수상
-> - 2022 ICT 융합 프로젝트 경진대회
-> - 2022 국민대 가상환경 자율주행 경진대회 수상
-> - 2022 우주전파환경 AI 경진대회 수상
-> - 2022 ACK 추계 학술 대회 수상
-> - 2023 경기대 AI/SW 창업 아이디어 캠프 수상
-> - 2023 dacon 실시간 TV 손동작 제어 인식 AI 경진대회 수상
+> - <a href="https://github.com/gihyeon0903/Line_tracer_freshman">2018 하계 라인트레이서</a>
+> - <a href="https://github.com/gihyeon0903/ICT-fusion-Project-Competition-2021">2021 ICT 융합 프로젝트 경진대회</a>
+> - <a href="https://github.com/gihyeon0903/Capstone-Design-competition">2021 아주대 융합캡스톤 디자인 경진대회 수상</a>
+> - <a href="https://github.com/gihyeon0903/ICT-fusion-Project-Competition-2022">2022 ICT 융합 프로젝트 경진대회</a>
+> - <a href="https://github.com/gihyeon0903/morai-autonomous-car-competition">2022 국민대 가상환경 자율주행 경진대회 수상</a>
+> - <a href="https://github.com/gihyeon0903/Space-Weather-prediction-competition">2022 우주전파환경 AI 경진대회 수상</a>
+> - <a href="https://github.com/gihyeon0903/ACK-conference-paper">2022 ACK 추계 학술 대회 수상</a>
+> - <a href="">2023 경기대 AI/SW 창업 아이디어 캠프 수상</a>
+> - <a href="https://github.com/gihyeon0903/dacon-compeition-2023-1">2023 dacon 실시간 TV 손동작 제어 인식 AI 경진대회 수상</a>
 
 > 진행중
 > - 한이음 (AI Vision을 이용한 제품 불량감지 시스템 구축)
