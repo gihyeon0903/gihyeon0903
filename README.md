@@ -20,8 +20,8 @@
 ### 👨‍🎓 Activities
 > - 아주대 학술 동아리 X-Tal 교육부장 (18년 2월 ~ 현재)
 > - 아주대 로봇 동아리 ATOM (18년 6월 ~ 현재)
-> - AI Study (22년 6월 ~ 현재)
-> - C/C++ Study (23년 3월 ~ 현재)
+> - <a href="https://github.com/gihyeon0903/AI-sutdy">AI Study</a> (22년 6월 ~ 현재)
+> - <a href="https://github.com/gihyeon0903/AI-sutdy">C/C++ Study</a> (23년 3월 ~ 현재)
 
 ### 👨‍🎓 Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /><br>
