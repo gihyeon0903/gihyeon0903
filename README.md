@@ -2,7 +2,7 @@
 
 ### 🧑‍ About me
 > Name : Nam GiHyeon<br>
-> Mail : ygw0903@gmail.com
+> Mail : gihyeon9892@gmail.com
 
 ### 💻 Project
 > 종료
