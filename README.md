@@ -15,14 +15,13 @@
 > - <a href="https://github.com/gihyeon0903/ACK-conference-paper">2022 ACK 추계 학술 대회</a> 🏆
 > - <a href="https://github.com/gihyeon0903/AI-SW-Foundation-idea-camp">2023 경기대 AI/SW 창업 아이디어 캠프</a> 🏆
 > - <a href="https://github.com/gihyeon0903/dacon-compeition-2023-1">2023 dacon 실시간 TV 손동작 제어 인식 AI 경진대회</a> 🏆
+> - <a href="https://github.com/gihyeon0903/-EV-Autonomous-Driving-Contest">국제 대학생 EV 자율주행 경진대회 AA1/10</a> 🏆
+> - <a href="https://github.com/gihyeon0903/miniDrone2023_">2023 미니드론 경진대회</a> 🏆
 
 > 진행중
 > - <a href="https://github.com/gihyeon0903/Hanium-Defective-product_Detect">한이음 (AI Vision을 이용한 제품 불량감지 시스템 구축)</a>
 > - <a href="https://github.com/gihyeon0903/Hanium-stock-price-outlier-detection">한이음 (인공지능 기반 금융 이상징후 패턴 탐지 프로그램 개발)</a>
 > - 융합캡스톤 디자인 (자동차 번호판 비식별화)
-> - <a href="https://github.com/gihyeon0903/miniDrone2023">미니드론 경진대회</a>
-> - <a href="https://github.com/gihyeon0903/-EV-Autonomous-Driving-Contest">국제 대학생 EV 자율주행 경진대회 AA1/10</a>
-
 
 ### 🧑‍🤝‍🧑 Activities
 > - 아주대 학술 동아리 X-Tal 교육부장 (18년 2월 ~ 현재)
