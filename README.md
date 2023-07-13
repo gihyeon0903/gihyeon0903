@@ -15,7 +15,7 @@
 > - <a href="https://github.com/gihyeon0903/ACK-conference-paper">2022 ACK 추계 학술 대회</a> 🏆
 > - <a href="https://github.com/gihyeon0903/AI-SW-Foundation-idea-camp">2023 경기대 AI/SW 창업 아이디어 캠프</a> 🏆
 > - <a href="https://github.com/gihyeon0903/dacon-compeition-2023-1">2023 dacon 실시간 TV 손동작 제어 인식 AI 경진대회</a> 🏆
-> - <a href="https://github.com/gihyeon0903/-EV-Autonomous-Driving-Contest">국제 대학생 EV 자율주행 경진대회 AA1/10</a> 🏆
+> - <a href="https://github.com/gihyeon0903/-EV-Autonomous-Driving-Contest">2023 국제 대학생 EV 자율주행 경진대회 AA1/10</a> 🏆
 > - <a href="https://github.com/gihyeon0903/miniDrone2023_">2023 미니드론 경진대회</a> 🏆
 
 > 진행중
