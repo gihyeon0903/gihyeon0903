@@ -21,7 +21,7 @@
 
 > 진행중
 > - <a href="https://github.com/gihyeon0903/Car-Plate-De-identification/tree/main">융합캡스톤 디자인1 (자동차 번호판 비식별화)</a>
-> - 융합캡스톤 디자인2 (자동차 번호판 비식별화)
+> - 융합캡스톤 디자인2 (Multi Target Multi Camera Tracking)
 
 ### 🧑‍🤝‍🧑 Activities
 > - 아주대 학술 동아리 X-Tal 교육부장 (18년 2월 ~ 현재)
