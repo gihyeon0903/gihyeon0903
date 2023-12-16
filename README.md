@@ -18,7 +18,7 @@
 > - <a href="https://github.com/gihyeon0903/-EV-Autonomous-Driving-Contest">2023 국제 대학생 EV 자율주행 경진대회 AA1/10</a> 🏆
 > - <a href="https://github.com/gihyeon0903/miniDrone2023_">2023 미니드론 경진대회</a> 🏆
 > - <a href="https://github.com/gihyeon0903/Hanium-Defective-product_Detect">한이음 (AI Vision을 이용한 제품 불량감지 시스템 구축)</a> 🏆
-> - <a href="https://github.com/gihyeon0903/Car-Plate-De-identification/tree/main">융합캡스톤 디자인1 (자동차 번호판 비식별화)</a>
+> - <a href="https://github.com/gihyeon0903/Car-Plate-De-identification/tree/main">융합캡스톤 디자인1 (자동차 번호판 비식별화)</a> 🏆
 
 > 진행중
 > - <a href="https://github.com/gihyeon0903/Multi-Target-Multi-Camera-Tracking-Capstone-Design">융합캡스톤 디자인2 (Multi Target Multi Camera Tracking)</a>
@@ -26,8 +26,6 @@
 ### 🧑‍🤝‍🧑 Activities
 > - 아주대 학술 동아리 X-Tal 교육부장 (18년 2월 ~ 현재)
 > - 아주대 로봇 동아리 ATOM (18년 6월 ~ 현재)
-> - <a href="https://github.com/gihyeon0903/AI-sutdy">AI Study</a> (22년 6월 ~ 현재)
-> - <a href="https://github.com/gihyeon0903/C-Cpp-study">Coding Test Study</a> (23년 3월 ~ 현재)
 
 ### 🛠 Skills
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /><br>  -->
