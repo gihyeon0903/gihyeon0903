@@ -31,6 +31,5 @@
 > - 아주대 로봇 동아리 ATOM (18년 6월 ~ 현재)
 
 ### 🛠 Skills
-<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /><br>  -->
-<img src="https://skillicons.dev/icons?i=py,pytorch,cpp,c" />
---!>
+
+-->
